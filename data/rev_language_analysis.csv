@@ -1,0 +1,73 @@
+language,type,lexicon,grammar,lexicon_grammar,avg_ms_complexity
+mandarin,base-10,10,0,10,1.147948301362413
+abun,base-10,10,1,11,1.2138802158431754
+tagalog,base-10,10,1,11,1.160181585938607
+hindi,base-10,10,3,13,1.1513370228516635
+greek,base-10 w/ monomorphemics,11,0,11,1.1266920365285642
+garo,base-10 w/ monomorphemics,11,6,17,1.147948301362413
+yakut,base-10 w/ monomorphemics,12,0,12,1.1161959315568555
+english,base-10 w/ monomorphemics,12,0,12,1.129342812308858
+russian,base-10 w/ monomorphemics,11,0,11,1.1416924802438424
+turkish,base-10 w/ monomorphemics,14,0,14,1.1057869028512777
+cahuilla,base-10 w/o some digits,6,0,6,1.2822441661168458
+kunama,base-10 w/o some digits,6,1,7,1.2822441661168458
+kayahli,base-10 w/o some digits,6,4,10,1.3416467617090115
+quileute,base-10 w/o some digits,6,1,7,1.2822441661168458
+tarahumara,base-10 w/o some digits,8,4,12,1.2003281812245292
+kannada,base-10 w/o some digits,9,3,12,1.171665583112185
+khanty,base-10 w/o some digits,10,3,13,1.1449024038882527
+georgian,base-20,11,0,11,1.1344328896245228
+ingush,base-20,11,2,13,1.1344328896245228
+abkhaz,base-20,10,0,10,1.1848592914836502
+huave,base-20,11,1,12,1.1661852594300812
+lezgian,base-20,12,0,12,1.1240238609189452
+yucatec,base-20,12,2,14,1.1684239563599383
+mixtecA,base-20,12,0,12,1.1272398032057676
+mixtecC,base-20,12,1,13,1.130197916777627
+french,base-20,11,4,15,1.1302796820375158
+albanian,base-20,11,4,15,1.147948301362413
+otomi,base-20 w/o some digits,7,1,8,1.2922161208365246
+gola,base-20 w/o some digits,7,1,8,1.2635220721750142
+arawak,base-20 w/o some digits,6,2,8,1.393565761884173
+kana,base-20 w/o some digits,8,0,8,1.2171911935529025
+nahuatl,base-20 w/o some digits,8,1,9,1.2625461565262213
+diola,base-20 w/o some digits,8,0,8,1.2307937867206626
+supyire,base-20 w/o some digits,8,0,8,1.2573708294515893
+drehu,base-20 w/o some digits,8,4,12,1.3313988670727828
+mangab-mbula,base-20 w/o some digits,6,4,10,1.509415539678581
+haida,other bases,10,4,14,1.150409318278336
+kilivila,other bases,6,1,7,1.356441083945599
+tommoso,other bases,11,0,11,1.1462290570952343
+khalaj,other bases,14,2,16,1.1057869028512777
+artificial_language_g0_28,artificial,3,0,3,1.0840812485188323
+artificial_language_g1_30,artificial,6,0,6,1.2703712509947587
+artificial_language_g1_30_m2,artificial,5,0,5,1.3351199405674379
+artificial_language_g2_24,artificial,9,0,9,1.1668949620775686
+artificial_language_g0_28_m3,artificial,4,0,4,1.4341301685559908
+artificial_language_g0_28_m4,artificial,2,0,2,2.0785225869763164
+artificial_language_g0_270_m1_m4,artificial,24,2,26,1.0433806879945993
+artificial_language_g2_24_m4,artificial,8,0,8,1.192078867659985
+artificial_language_g2_24_m4_m6,artificial,7,0,7,1.2242230128235094
+artificial_language_g0_270_m4_m8_m9,artificial,21,2,23,1.052958815470021
+artificial_language_g0_270_m1_m4_m11,artificial,23,2,25,1.0460835919988913
+artificial_language_g1_21_m5_m6_m11,artificial,18,2,20,1.0664455968861721
+artificial_language_g1_21_m5_m9_m11,artificial,19,2,21,1.061698278481438
+artificial_language_g12_10,artificial,12,2,14,1.1198054197632141
+artificial_language_g3_15_m13,artificial,10,0,10,1.147948301362413
+artificial_language_g2_32_m4_m17_m23,artificial,27,0,27,1.0365707426956894
+artificial_language_g0_270_m1_m4_m11_m24,artificial,22,2,24,1.0489900590046322
+artificial_language_g0_270_m4_m8_m9_m32,artificial,20,2,22,1.0568665928519665
+artificial_language_g1_21_m5_m6_m11_m14_m24_m35,artificial,16,2,18,1.07884397095532
+artificial_language_g2_32_m4_m17_m23_m37_m38,artificial,25,0,25,1.0403377257095663
+artificial_language_g2_32_m4_m17_m30_m31_m33_m37_m42_m48,artificial,30,0,30,1.032675750792324
+artificial_language_g2_32_m4_m17_m30_m31_m33_m37_m42_m49,artificial,28,0,28,1.0348926515329744
+artificial_language_g1_21_m5_m6_m11_m14_m24_m35_m52,artificial,15,2,17,1.0871905508130622
+artificial_language_g55_26,artificial,14,2,16,1.0976496005052268
+artificial_language_g12_10_m56,artificial,13,2,15,1.1073069419924864
+artificial_language_g2_32_m4_m17_m23_m67,artificial,26,0,26,1.038380400177375
+artificial_language_g2_32_m4_m17_m30_m31_m33_m37_m42_m48_m68,artificial,29,0,29,1.0336196770713515
+artificial_language_g1_21_m5_m6_m11_m14_m73,artificial,17,2,19,1.0719051376108828
+artificial_language_g75_28,artificial,11,0,11,1.133085515132672
+optimal_uniform,artificial,9,0,9,1.2511819557730244
+optimal_pl,artificial,5,0,5,1.3351199405674379
+optimal_rev_pl,artificial,10,0,10,1.3286718243192261
