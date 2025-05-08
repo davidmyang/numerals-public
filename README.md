@@ -1,9 +1,9 @@
 # Re-examining the tradeoff between lexicon size and average morphosyntactic complexity in recursive numeral systems
-This is the code for the CogSci 2025 oral presentation and paper above. Please contact davidmyang@berkeley.edu for any issues or questions.
+This is the code for the CogSci 2025 oral presentation and paper above. Please contact yangd5050@gmail.com for any issues or questions.
 
 ### CSV File Grammars
-There are a few differences to note between how the language grammars are structured in the csv files compared to the final paper. _Note that these differences do not change our results._
-- In the csv files, the upper-bounds of ranges are exclusive, while they are inclusive in the final paper.
+There are a few differences to note between how the language grammars are structured in the csv files compared to the final paper. _Note that these differences are purely notational and do not change our results._
+- In the csv files, the upper-bounds of ranges are exclusive, while they are inclusive in the final paper (e.g. 1-10 exclusive instead of 1-9 inclusive).
 - In the csv files (and code), we use the term "monomorphemic" when referring to numerals like English 11. These are referred to as "suppletives" in the final paper.
 
 ### Code Guide
@@ -33,7 +33,7 @@ Calculates the lexicon size and average morphosyntactic complexity (avg_ms_compl
 Generates multiple generations of artificial languages using the scripts above and keeps the optimal languages from each generation.
 
 #### prior_significance.py
-Performs t-tests on the different priors and plots them (_Figure 4_ in paper).
+Performs sign tests on the different priors and plots them (_Figure 4_ in paper).
 - Input: A csv file containing lexicon size and avg_ms_complexity values (e.g. `data/pl_complexity.csv`).
 - Output: Saved image (e.g. `image/priors_comparison.png`).
 
